@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @abdulbasit
+- 👀 I’m interested in coding, programming in general
+- 🌱 I’m currently learning HTML, C++ and also python
+- 📫 How to reach me; whatsapp 0591063797
+- ⚡ Fun fact: coldest code
+--->
